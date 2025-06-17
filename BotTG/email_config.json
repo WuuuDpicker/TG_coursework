@@ -1,0 +1,20 @@
+[
+  {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 465,
+    "smtp_user": "WuuuDpicker@gmail.com",
+    "smtp_password": "sszr dldp yehm cpcj"
+  },
+  {
+    "smtp_server": "smtp.yandex.ru",
+    "smtp_port": 465,
+    "smtp_user": "sch.iv.nik@yandex.ru",
+    "smtp_password": "hivnzocrrnxouehs"
+  },
+  {
+    "smtp_server": "smtp.mail.ru",
+    "smtp_port": 465,
+    "smtp_user": "lemege_ton@mail.ru",
+    "smtp_password": "ibip ixyc egym az28"
+  }
+]
